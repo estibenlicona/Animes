@@ -1,0 +1,15 @@
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\obj\Debug\net6.0\Anime.Application.csproj.AssemblyReference.cache
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\obj\Debug\net6.0\Anime.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\obj\Debug\net6.0\Anime.Application.AssemblyInfoInputs.cache
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\obj\Debug\net6.0\Anime.Application.AssemblyInfo.cs
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\obj\Debug\net6.0\Anime.Application.csproj.CoreCompileInputs.cache
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\bin\Debug\net6.0\Anime.Application.deps.json
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\bin\Debug\net6.0\Anime.Application.dll
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\bin\Debug\net6.0\Anime.Application.pdb
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\bin\Debug\net6.0\Anime.Domain.dll
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\bin\Debug\net6.0\Anime.Domain.pdb
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\obj\Debug\net6.0\Anime.Application.csproj.CopyComplete
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\obj\Debug\net6.0\Anime.Application.dll
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\obj\Debug\net6.0\refint\Anime.Application.dll
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\obj\Debug\net6.0\Anime.Application.pdb
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Application\obj\Debug\net6.0\ref\Anime.Application.dll

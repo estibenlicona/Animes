@@ -1,0 +1,15 @@
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\obj\Debug\net6.0\Anime.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\obj\Debug\net6.0\Anime.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\obj\Debug\net6.0\Anime.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\obj\Debug\net6.0\Anime.Infrastructure.AssemblyInfo.cs
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\obj\Debug\net6.0\Anime.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\bin\Debug\net6.0\Anime.Infrastructure.deps.json
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\bin\Debug\net6.0\Anime.Infrastructure.dll
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\bin\Debug\net6.0\Anime.Infrastructure.pdb
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\bin\Debug\net6.0\Anime.Domain.dll
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\bin\Debug\net6.0\Anime.Domain.pdb
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\obj\Debug\net6.0\Anime.Infrastructure.csproj.CopyComplete
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\obj\Debug\net6.0\Anime.Infrastructure.dll
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\obj\Debug\net6.0\refint\Anime.Infrastructure.dll
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\obj\Debug\net6.0\Anime.Infrastructure.pdb
+C:\Users\analistadesarrollo2\source\repos\Anime\Anime.Infrastructure\obj\Debug\net6.0\ref\Anime.Infrastructure.dll
